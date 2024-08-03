@@ -1,7 +1,7 @@
 # Project Title : AWS Projects
 
 ## Description
-I created this repository to store and showcase my personal AWS Projects for learning and exposure.
+I created this repository to store and showcase my personal AWS Projects.
 
 ## Table of Contents
 List of Projects

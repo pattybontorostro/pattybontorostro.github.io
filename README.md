@@ -1,4 +1,4 @@
-# Project Title : Self Projects with AWS and Azure
+# Project Title : Self Projects with AWS
 
 ## Description
 I created this repository to store and showcase my personal AWS Projects.

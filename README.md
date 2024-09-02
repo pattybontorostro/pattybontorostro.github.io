@@ -13,3 +13,5 @@ AWS List of Projects
 
 ## Contact
 You can contact me here or through my linkedin
+
+Notion Portfolio: https://alpine-tomato-ddb.notion.site/813a34b5257342beb4392829da66a4fb?v=74f34fae84e549bfbc728fc2ffd5c1c6&pvs=4
